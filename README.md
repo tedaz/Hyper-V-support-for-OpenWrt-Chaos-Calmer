@@ -25,9 +25,9 @@ Chinese:
 
 让OpenWrt Chaos Calmer X86或X86_64支持Hyper-V虚拟机
 
-很明显，OpenWrt Chaos Calmer 静X86或X86_64是不支持Hyper-V虚拟机的。
+很明显，OpenWrt Chaos Calmer X86或X86_64是不支持Hyper-V虚拟机的。
 
-之前有些补丁支持旧的核心，但这些补丁已经无人维护或合并到Chaos Calmer。
+之前有些补丁支持旧的核心，但这些补丁已经无人维护也未合并到Chaos Calmer。
 
 这是我在Ning Ye源代码的基础上制作的Chaos Calmer（内核3.18）的Hyper-V的补丁，Ning Ye的源代码请参见（https://patchwork.ozlabs.org/patch/431583/
 ）。感谢Ning Ye！
