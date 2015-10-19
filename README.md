@@ -29,7 +29,8 @@ Chinese:
 
 之前有些补丁支持旧的核心，但这些补丁已经无人维护或合并到Chaos Calmer。
 
-这是我在Ning Ye源代码的基础上制作的Chaos Calmer（内核3.18）的Hyper-V的补丁，Ning Ye的源代码请参见（https://patchwork.ozlabs.org/patch/431583/）。感谢Ning Ye！
+这是我在Ning Ye源代码的基础上制作的Chaos Calmer（内核3.18）的Hyper-V的补丁，Ning Ye的源代码请参见（https://patchwork.ozlabs.org/patch/431583/
+）。感谢Ning Ye！
 
 由于目标配置是x86或x86_64，没有新的子目标或配置文件被创建。generic配置文件或任何其他文件可以很好的工作。
 
