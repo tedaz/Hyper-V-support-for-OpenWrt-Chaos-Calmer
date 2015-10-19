@@ -8,7 +8,7 @@ Hyper-V support for OpenWrt Chaos Calmer X86 or X86_64 were noticeably missing.
 
 There are previous patches for old Kernels but never maintained or merged into the Chaos Calmer.
 
-Here's my take on adding the Hyper-V patch for the Chaos Calmer (kernel 3.18) based on Ning Ye's source code, https://patchwork.ozlabs.org/patch/431583/. Thanks for Ning Ye.
+Here's my take on adding the Hyper-V patch for the Chaos Calmer (kernel 3.18) based on Ning Ye's source code, https://patchwork.ozlabs.org/patch/431583/. Thanks for Ning Ye!
 
 No new sub targets or profiles are created, as long as the target is x86 or x86_64. The generic works well or any other profiles.  
 
